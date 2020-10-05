@@ -27,3 +27,5 @@ StringBuilder builder = new StringBuilder();
 ```
 
 9. 快速幂取模
+10. l+((r-l)>>1) 与 l+(r-l)>>1 不一样
+
